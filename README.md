@@ -1,0 +1,2 @@
+How to Create a Server Using MongoDB and Node.js With Free Source Code
+This project demonstrates how to create a basic server using Node.js and MongoDB, providing free source code for you to use and modify in your own projects. The server can perform basic CRUD (Create, Read, Update, Delete) operations and is an excellent starting point for those new to full-stack development with Node.js and MongoDB.
